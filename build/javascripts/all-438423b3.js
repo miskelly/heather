@@ -1,0 +1,1 @@
+$(document.body).append($("<h2>Awesome!</h2>"));
